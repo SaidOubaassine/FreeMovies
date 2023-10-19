@@ -1,0 +1,12 @@
+.top-imdb {
+  margin: auto;
+  width: 1270px;
+  padding: 24px 0 75px 0;
+}
+.list-top-imdb {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 52px;
+  column-gap: 19px;
+  row-gap: 30px;
+}
